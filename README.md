@@ -1,6 +1,7 @@
 ## Hi, I'm Isaac! 👋
 
-### I am a current student at the University of Iowa in my senior year of college. Upon graduatioin, I will begin working at Nationwide Insurance as a Product Analyst! 
+### I am a current student at the ![University of Iowa](https://img.shields.io/badge/University%20of%20Iowa-FFCD00?style=for-the-badge&logo=university&logoColor=000000)
+ in my senior year of college. Upon graduatioin, I will begin working at Nationwide Insurance as a Product Analyst! 
 
 ## Skills
 
@@ -12,4 +13,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-
+## Current Classes
