@@ -1,6 +1,6 @@
 ## Hi, I'm Isaac! 👋
 
-### I am a current student at the University of Iowa in my senior year of college. Upon graduatioin, I will begin working at Nationwide Insurance as a Product Analyst! 
+### I am a current student at the University of Iowa in my senior year of college. Upon graduation, I will begin working at Nationwide Insurance as a Product Analyst! 
 
 ## Skills
 
