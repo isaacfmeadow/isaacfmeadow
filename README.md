@@ -21,7 +21,6 @@
 - BAIS Capstone
 
 ## Locations
-![University of Iowa](https://img.shields.io/badge/University%20of%20Iowa-000000?style=for-the-badge&logo=university&logoColor=FFCD00)
-![Iowa City](https://img.shields.io/badge/Iowa%20City%2C%20IA-000000?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Chicago](https://img.shields.io/badge/Chicago%2C%20IL-DC143C?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Iowa City](https://img.shields.io/badge/Iowa%20City%2C%20IA-000000?style=for-the-badge&logo=googlemaps&logoColor=FFCD00)
+![Chicago](https://img.shields.io/badge/Chicago%2C%20IL-FFFFFF?style=for-the-badge&logo=googlemaps&logoColor=DC143C)
 
