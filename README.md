@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Isaac! 👋
+
+### I am a current student at the University of Iowa in my senior year of college. Upon graduatioin, I will begin working at Nationwide Insurance as a Product Analyst! 
 
 <!--
 **isaacfmeadow/isaacfmeadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
